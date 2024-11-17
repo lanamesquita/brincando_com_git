@@ -1,2 +1,2 @@
-# brincando_com_git
-repositório para explorar situações
+# Briuncando com Git
+Repositório para explorar situações
